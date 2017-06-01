@@ -11,6 +11,11 @@ nav .brand-logo {
   color: #444;
 }
 
+.main-logo {
+  width: 110px;
+  height: 64px;
+}
+
 p {
   line-height: 2rem;
 }
